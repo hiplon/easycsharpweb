@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvcCase", "mvcCase\mvcCase.csproj", "{D11EF68B-2326-47ED-A57D-1DD4C78BFA8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqliteCase", "sqliteCase\sqliteCase.csproj", "{B9B82D96-D0A5-4DD3-814F-2BB4417C0340}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webAPICase", "webAPICase\webAPICase.csproj", "{CE9374CA-458E-47FE-B8A7-4391B3514587}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D11EF68B-2326-47ED-A57D-1DD4C78BFA8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D11EF68B-2326-47ED-A57D-1DD4C78BFA8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D11EF68B-2326-47ED-A57D-1DD4C78BFA8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D11EF68B-2326-47ED-A57D-1DD4C78BFA8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9B82D96-D0A5-4DD3-814F-2BB4417C0340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B82D96-D0A5-4DD3-814F-2BB4417C0340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B82D96-D0A5-4DD3-814F-2BB4417C0340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B82D96-D0A5-4DD3-814F-2BB4417C0340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE9374CA-458E-47FE-B8A7-4391B3514587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE9374CA-458E-47FE-B8A7-4391B3514587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE9374CA-458E-47FE-B8A7-4391B3514587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE9374CA-458E-47FE-B8A7-4391B3514587}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
